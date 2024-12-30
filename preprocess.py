@@ -46,7 +46,7 @@ def _write_file(file_name, contents):
 def _tex_preprocess(text: str):
     assert "~---" not in text
     text = text.replace("\\т", "&nbsp;&ndash;")
-    text = text.replace("\\г", "&nbsp;&ndash;")
+    text = text.replace("\\г", "&deg;")
     text = text.replace("~--", "&nbsp;&ndash;")
     text = text.replace("~", "&nbsp;")
     text = text.replace("<<", "&laquo;")
