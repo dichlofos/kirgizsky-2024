@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-06-27T16:58:11.190Z</time>
+	</metadata>
+	<wpt lat="42.575393" lon="74.991650">
+		<name>Обед 15.08. Есть ручей</name>
+	</wpt>
+	<wpt lat="42.557776" lon="74.977445">
+		<name>Ночь 15.08</name>
+	</wpt>
+	<wpt lat="42.550159" lon="74.951954">
+		<name>16.08 Обед</name>
+	</wpt>
+	<wpt lat="42.554858" lon="74.939980">
+		<name>Ночь 16.08. Перевал Кок-Мойнок З. 1А</name>
+	</wpt>
+	<wpt lat="42.558227" lon="74.913780">
+		<name>Обед 17.08</name>
+	</wpt>
+	<wpt lat="42.560265" lon="74.918694">
+		<name>Ночь 17.08</name>
+	</wpt>
+	<wpt lat="42.592559" lon="74.902944">
+		<name>Ночь 18.08</name>
+	</wpt>
+	<wpt lat="42.544172" lon="74.866273">
+		<name>Обед 19.08</name>
+	</wpt>
+	<wpt lat="42.515440" lon="74.821126">
+		<name>Ночь 19.08</name>
+	</wpt>
+	<wpt lat="42.473233" lon="74.794690">
+		<name>Обед 20.08</name>
+	</wpt>
+	<wpt lat="42.444050" lon="74.801020">
+		<name>Ночь 20.08 </name>
+	</wpt>
+	<wpt lat="42.425318" lon="74.781623">
+		<name>Обед 21.08</name>
+	</wpt>
+	<wpt lat="42.422078" lon="74.776301">
+		<name>Пер Иссык-Ата 1Б</name>
+	</wpt>
+	<wpt lat="42.413473" lon="74.773211">
+		<name>Ночь 21.08</name>
+	</wpt>
+	<wpt lat="42.407379" lon="74.751303">
+		<name>Обед 22.08</name>
+	</wpt>
+	<wpt lat="42.427828" lon="74.718365">
+		<name>Ночь 22.08</name>
+	</wpt>
+	<wpt lat="42.459972" lon="74.673154">
+		<name>Обед 23.08</name>
+	</wpt>
+	<wpt lat="42.501385" lon="74.655087">
+		<name>Ночь 23.08</name>
+	</wpt>
+	<wpt lat="42.602408" lon="74.662683">
+		<name>Обед 24.08</name>
+	</wpt>
+	<wpt lat="42.599168" lon="74.662018">
+		<name>Ночь 24.08</name>
+	</wpt>
+	<wpt lat="42.594018" lon="74.636697">
+		<name>Обед 25.08. Источник воды</name>
+	</wpt>
+	<wpt lat="42.591036" lon="74.613352">
+		<name>Ночь 25.08. Перевал 3196 н/к</name>
+	</wpt>
+	<wpt lat="42.595713" lon="74.619403">
+		<name>Источник воды</name>
+	</wpt>
+	<wpt lat="42.582967" lon="74.588997">
+		<name>Источник воды</name>
+	</wpt>
+	<wpt lat="42.596164" lon="74.581530">
+		<name>Обед 26.08</name>
+	</wpt>
+	<wpt lat="42.606464" lon="74.598674">
+		<name>Ночь 26.08</name>
+	</wpt>
+	<wpt lat="42.630346" lon="74.604211">
+		<name>Точка выброски</name>
+	</wpt>
+	<wpt lat="42.596314" lon="75.025468">
+		<name>Старт 15.08</name>
+	</wpt>
+	<wpt lat="42.554128" lon="74.974720">
+		<name>Источник воды</name>
+	</wpt>
+	<wpt lat="42.553291" lon="74.933221">
+		<name>Источник воды</name>
+	</wpt>
+	<wpt lat="42.564235" lon="74.912193">
+		<name>Смотровая площадка</name>
+	</wpt>
+	<wpt lat="42.591465" lon="74.905433">
+		<name>Источник воды. Яблони</name>
+	</wpt>
+	<wpt lat="42.594361" lon="74.905197">
+		<name>Памятник Ленину</name>
+	</wpt>
+	<wpt lat="42.599211" lon="74.907257">
+		<name>Магазин</name>
+	</wpt>
+	<wpt lat="42.599983" lon="74.906506">
+		<name>Гостиница</name>
+	</wpt>
+	<wpt lat="42.487588" lon="74.796772">
+		<name>Точка, где лучше забрать наверх</name>
+	</wpt>
+	<wpt lat="42.429309" lon="74.717529">
+		<name>Брод</name>
+	</wpt>
+	<wpt lat="42.532885" lon="74.836962">
+		<name>Камень Джарташ</name>
+	</wpt>
+	<wpt lat="42.528100" lon="74.831447">
+		<name>Мост</name>
+	</wpt>
+	<wpt lat="42.561102" lon="74.662361">
+		<name>Мост</name>
+	</wpt>
+	<wpt lat="42.577903" lon="74.661395">
+		<name>Неприятный лес, идти ближе к реке</name>
+	</wpt>
+	<wpt lat="42.580650" lon="74.995942">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.556746" lon="74.977574">
+		<name>Болотистая местность</name>
+	</wpt>
+	<wpt lat="42.568226" lon="74.984097">
+		<name>Места стоянок</name>
+	</wpt>
+	<wpt lat="42.548528" lon="74.969291">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.557197" lon="74.923608">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.597838" lon="74.656653">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.593031" lon="74.605584">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.588031" lon="74.604554">
+		<name>Сухое русло</name>
+	</wpt>
+	<wpt lat="42.412143" lon="74.762590">
+		<name>Перевал Аламедин В. 1А</name>
+	</wpt>
+	<wpt lat="42.582131" lon="74.591808">
+		<name>Перевал Зигзаг 1А</name>
+	</wpt>
+	<wpt lat="42.560973" lon="74.911098">
+		<name>Брод</name>
+	</wpt>
+	<wpt lat="42.429223" lon="74.793789">
+		<name>Озеро место под стоянки</name>
+	</wpt>
+</gpx>

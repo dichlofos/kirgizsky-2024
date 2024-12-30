@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="http://nakarte.me" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1">
+	<metadata>
+		<time>2024-06-27T16:57:49.925Z</time>
+	</metadata>
+	<wpt lat="42.550180" lon="74.487781">
+		<name>brod_Aksai</name>
+	</wpt>
+	<wpt lat="42.542670" lon="74.483704">
+		<name>most_Alaarcha_03</name>
+	</wpt>
+	<wpt lat="42.513917" lon="74.480421">
+		<name>most_Alaarcha_04</name>
+	</wpt>
+	<wpt lat="42.552304" lon="74.483447">
+		<name>most_Alaarcha_02</name>
+	</wpt>
+	<wpt lat="42.572367" lon="74.481923">
+		<name>most_Alaarcha_01</name>
+	</wpt>
+	<wpt lat="42.569320" lon="74.476580">
+		<name>razvilka_Adygine</name>
+	</wpt>
+	<wpt lat="42.555502" lon="74.456281">
+		<name>most_Adygine</name>
+	</wpt>
+	<wpt lat="42.536211" lon="74.451947">
+		<name>camp_Electro_pass</name>
+	</wpt>
+	<wpt lat="42.543743" lon="74.452397">
+		<name>camp_01</name>
+	</wpt>
+	<wpt lat="42.528186" lon="74.447870">
+		<name>camp_02</name>
+	</wpt>
+	<wpt lat="42.521963" lon="74.440767">
+		<name>camp_03</name>
+	</wpt>
+	<wpt lat="42.529345" lon="74.432549">
+		<name>p.Elektro</name>
+	</wpt>
+	<wpt lat="42.512973" lon="74.438321">
+		<name>most_Adygine_2</name>
+	</wpt>
+	<wpt lat="42.512415" lon="74.438085">
+		<name>camp_04</name>
+	</wpt>
+	<wpt lat="42.490721" lon="74.427228">
+		<name>pass.Min_Djilki_Ashy</name>
+	</wpt>
+	<wpt lat="42.488060" lon="74.421026">
+		<name>sedl.Elka_dop</name>
+	</wpt>
+	<wpt lat="42.485957" lon="74.414911">
+		<name>camp_05</name>
+	</wpt>
+	<wpt lat="42.482438" lon="74.408452">
+		<name>camp_06</name>
+	</wpt>
+	<wpt lat="42.480357" lon="74.402337">
+		<name>camp_07</name>
+	</wpt>
+	<wpt lat="42.457440" lon="74.422185">
+		<name>pass.100-l_Frunze</name>
+	</wpt>
+	<wpt lat="42.450681" lon="74.435017">
+		<name>camp_08</name>
+	</wpt>
+	<wpt lat="42.465422" lon="74.453406">
+		<name>tropa_01</name>
+	</wpt>
+	<wpt lat="42.470379" lon="74.456217">
+		<name>camp_09</name>
+	</wpt>
+	<wpt lat="42.487717" lon="74.476065">
+		<name>brevna_Djindisy</name>
+	</wpt>
+	<wpt lat="42.497201" lon="74.480185">
+		<name>tropa_Tuyk</name>
+	</wpt>
+	<wpt lat="42.488790" lon="74.488403">
+		<name>camp_10</name>
+	</wpt>
+	<wpt lat="42.488253" lon="74.490013">
+		<name>tropa_Tuyk_02</name>
+	</wpt>
+	<wpt lat="42.476452" lon="74.508209">
+		<name>camp_11</name>
+	</wpt>
+	<wpt lat="42.450273" lon="74.530117">
+		<name>pass_Tuyksy_Zap</name>
+	</wpt>
+	<wpt lat="42.441476" lon="74.533271">
+		<name>camp_12</name>
+	</wpt>
+	<wpt lat="42.439845" lon="74.532821">
+		<name>spusk_01</name>
+	</wpt>
+	<wpt lat="42.376051" lon="74.567089">
+		<name>camp_15</name>
+	</wpt>
+	<wpt lat="42.373519" lon="74.552734">
+		<name>camp_14</name>
+	</wpt>
+	<wpt lat="42.406371" lon="74.580114">
+		<name>ruch_Pastb</name>
+	</wpt>
+	<wpt lat="42.437742" lon="74.531727">
+		<name>camp_13</name>
+	</wpt>
+	<wpt lat="42.410834" lon="74.597387">
+		<name>camp_16</name>
+	</wpt>
+	<wpt lat="42.417936" lon="74.608695">
+		<name>camp_17</name>
+	</wpt>
+	<wpt lat="42.419932" lon="74.611463">
+		<name>camp_18</name>
+	</wpt>
+	<wpt lat="42.421177" lon="74.627793">
+		<name>pass.Tuyktor_Zap</name>
+	</wpt>
+	<wpt lat="42.418580" lon="74.649980">
+		<name>to_Alamedin_glac</name>
+	</wpt>
+	<wpt lat="42.426284" lon="74.672832">
+		<name>brod_Alamedin</name>
+	</wpt>
+	<wpt lat="42.429459" lon="74.674356">
+		<name>camp_19</name>
+	</wpt>
+	<wpt lat="42.450123" lon="74.674635">
+		<name>tropa_Alamedin</name>
+	</wpt>
+	<wpt lat="42.457740" lon="74.673390">
+		<name>brod_Ashutor</name>
+	</wpt>
+	<wpt lat="42.454522" lon="74.694290">
+		<name>camp_20</name>
+	</wpt>
+	<wpt lat="42.445574" lon="74.700341">
+		<name>camp_21</name>
+	</wpt>
+	<wpt lat="42.446218" lon="74.700277">
+		<name>camp_22</name>
+	</wpt>
+	<wpt lat="42.446411" lon="74.719224">
+		<name>camp_23</name>
+	</wpt>
+	<wpt lat="42.449844" lon="74.708924">
+		<name>001</name>
+	</wpt>
+	<wpt lat="42.449565" lon="74.735810">
+		<name>pass.Pervomay</name>
+	</wpt>
+	<wpt lat="42.448020" lon="74.755981">
+		<name>camp_24</name>
+	</wpt>
+	<wpt lat="42.451325" lon="74.746089">
+		<name>002</name>
+	</wpt>
+	<wpt lat="42.449050" lon="74.763040">
+		<name>p.3842</name>
+	</wpt>
+	<wpt lat="42.447698" lon="74.770872">
+		<name>spusk_Mindjilki</name>
+	</wpt>
+	<wpt lat="42.452526" lon="74.777009">
+		<name>camp_26</name>
+	</wpt>
+	<wpt lat="42.464307" lon="74.789498">
+		<name>brod_Issyk-Ata</name>
+	</wpt>
+	<wpt lat="42.467675" lon="74.779198">
+		<name>003</name>
+	</wpt>
+	<wpt lat="42.488039" lon="74.800248">
+		<name>morena_Issyk-Ata</name>
+	</wpt>
+	<wpt lat="42.521877" lon="74.829323">
+		<name>tropa_Issyk-Ata_01</name>
+	</wpt>
+	<wpt lat="42.528122" lon="74.831404">
+		<name>most_Issyk-Ata_02</name>
+	</wpt>
+	<wpt lat="42.544429" lon="74.866810">
+		<name>camp_27</name>
+	</wpt>
+	<wpt lat="42.568269" lon="74.890907">
+		<name>tropa_Issyk-Ata_02</name>
+	</wpt>
+</gpx>
