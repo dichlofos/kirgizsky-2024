@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="GPX Editor 1.6.11.1624" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+	<link href="http://www.garmin.com">
+		<text>Garmin International</text>
+	</link>
+	<time>2016-08-12T10:10:11Z</time>
+	<bounds minlat="42.551262" minlon="74.4564" maxlat="42.5556" maxlon="74.487387" />
+</metadata>
+<wpt lat="42.551262" lon="74.487387">
+	<ele>2251.427002</ele>
+	<time>2016-08-12T10:10:11Z</time>
+	<name>МОСТ АКСАЙ</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="42.552394" lon="74.483537">
+	<ele>2240.773438</ele>
+	<time>2016-08-12T10:25:58Z</time>
+	<name>МОСТ ЕСТЬ</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+<wpt lat="42.5556" lon="74.4564">
+	<ele>732.530701</ele>
+	<time>2016-08-12T15:31:53Z</time>
+	<name>САША</name>
+	<sym>Flag, Blue</sym>
+</wpt>
+
+</gpx>
