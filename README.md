@@ -21,8 +21,8 @@
 - Шифр TLIB: TODO `/TLIB`
 - Отчёт в~[каталоге Вестры](https://westra.ru/passes/Reports/???)
 - Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2024mv2/)
-- Последнее обновление: 30.12.2024
-- Версия: 1.01
+- Последнее обновление: 07.01.2025
+- Версия: 1.02
 - На Кубке Москвы 2025 года, согласно протоколам ФСТ-ОТМ, поход занял TODO [??? место](https://fst-otm.net/TODO_f9.pdf)
 
 # Нитка маршрута
@@ -32,10 +32,12 @@
 пер. Джаламыш (1Б) — р. Джаламыш — пер. Ашутор (н/к) — пер. Малышка (1А) — пос. Берюлю.
 
 # Отчёт
-- Исходный [текст отчёта](https://github.com/dichlofos/dzhantugan-2020/blob/master/report_dzhantugan_2020.md)
-- TODO [Копия отчёта](https://yadi.sk/404) в формате PDF + трек с точками, отправленные на Кубок Москвы 2024.
+- Исходный [текст отчёта](https://github.com/dichlofos/kirgizsky-2024/blob/main/source_report_kirgizsky_2024.md)
+- Версия для чтения в формате [Markdown](https://github.com/dichlofos/kirgizsky-2024/blob/main/report_kirgizsky_2024.md)
+
+- TODO [Копия отчёта](https://yadi.sk/404) в формате PDF + трек с точками, отправленные на Кубок Москвы 2025.
 - TODO [Итоговый судейский протокол Кубка Москвы](https://fst-otm.net/file/rezult/marshrut/km2021/km2021_gory_2ks_f7.pdf) от 24.02.2021 в формате PDF
-- TODO По результатам Кубка Москвы 2021 поход занял 5-е место, набрав `23.25` баллов с отрывом от 1 места в `0.67` баллов.
+- TODO По результатам Кубка Москвы 2025 поход занял ?-е место, набрав `23.25` баллов.
 - TODO Маршрутная книжка: [фотокопия](https://yadi.sk/a/wZOVdya2Xrp3Qg)
 - TODO [Финальная версия отчёта](https://disk.yandex.ru/d/kCn6YyCqb8mZug) для хранения в архиве.
 - TODO Шифр TLIB: `????-TLIB`
@@ -51,17 +53,14 @@
   - [Часть 2](https://yadi.sk/yyyy)
 - Каталог `to_print`: нарезка фото и текстов для печати перед походом
 
-# Карты
-- Каталог `maps`: подготовленная с помощью https://nakarte.me карта в масштабе 300м:1см с наложенным на неё треком.
-
 # Треки
 
 Каталог `tracks`:
-- полный трек с точками (`tracks/dzhantugan-2020-veltishchev-2ks-all.gpx`)
-- чужие треки
-- проектные, нарисованные для оценки расстояния
-- Каталоги `tracks/etrex20` и `tracks/gpsmap62s` содержат
-снятые на местности треки и маршрутные точки
+- полный трек с точками (`tracks/veltishchev/kirgizsky_2ks_2024_veltishchev_corrected.gpx`)
+- чужие треки (Анна Берзова, Екатерина Бирючева)
+- Каталоги `tracks/veltishchev/etrex` и `tracks/veltishchev/fenix` содержат
+снятые на местности треки на навигаторы Garmin ETrex и часы Garmin Fenix 7
+соответственно
 
 # Замечание об авторских правах
 
